@@ -2,12 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mkeithx.github.io/blog</id>
     <title>mkeithx Blog</title>
-    <updated>2024-05-16T00:00:00.000Z</updated>
+    <updated>2024-07-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mkeithx.github.io/blog"/>
     <subtitle>mkeithx Blog</subtitle>
     <icon>https://mkeithx.github.io/icons/favicon/slash-dark.ico</icon>
-    <rights>© 2024 · Keith Tan · All rights reserved · &lt;br&gt; Built with Docusaurus </rights>
+    <rights>© 2024 · Keith Tan · All rights reserved ·</rights>
+    <entry>
+        <title type="html"><![CDATA[DevOps July]]></title>
+        <id>https://mkeithx.github.io/blog/devops-july</id>
+        <link href="https://mkeithx.github.io/blog/devops-july"/>
+        <updated>2024-07-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Announcing some updates this July 2024]]></summary>
+        <content type="html"><![CDATA[<p><strong>All New Docs!</strong> Featuring practical tips, best practices, and in-depth insights to ensure smooth and efficient software deployments.</p>
+<p><img decoding="async" loading="lazy" alt="media" src="https://mkeithx.github.io/assets/images/mkx-blog-default-f71530839e2eae0daed54215b4274fbb.png" width="1280" height="640" class="img_ev3q"></p>
+<p>Find out more about what updates this July.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="highlights">Highlights<a class="hash-link" aria-label="Direct link to Highlights" title="Direct link to Highlights" href="https://mkeithx.github.io/blog/devops-july#highlights">​</a></h2>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="devops-docs"><a href="https://mkeithx.github.io/docs/devops">DevOps Docs</a><a class="hash-link" aria-label="Direct link to devops-docs" title="Direct link to devops-docs" href="https://mkeithx.github.io/blog/devops-july#devops-docs">​</a></h3>
+<p>In line with my career development, I'm proud to announce the release of a new section of this website called <a href="https://mkeithx.github.io/docs/devops">DevOps</a>. This section will provide tips and workarounds primarily focused on mitigating issues with Windows machines and effective Microsoft 365 management. Additionally, this new section aims to empower users with effective strategies for streamlining operations, troubleshooting common issues, and maximizing productivity within Windows environments.</p>
+<p>Along with this update, the MSP section is now fully deprecated but some of it contents and articles will be migrated accordingly. Learn <a href="https://mkeithx.github.io/blog/mid-year-upgrades-2024#deprecation-of-msp-docs-project">more</a></p>
+<ul>
+<li>Reference <a href="https://github.com/mkeithX/mkeithx.github.io/pull/46" target="_blank" rel="noopener noreferrer">PR#46</a></li>
+</ul>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="cloudflare-pages"><a href="https://developers.cloudflare.com/pages" target="_blank" rel="noopener noreferrer">Cloudflare Pages</a><a class="hash-link" aria-label="Direct link to cloudflare-pages" title="Direct link to cloudflare-pages" href="https://mkeithx.github.io/blog/devops-july#cloudflare-pages">​</a></h3>
+<p>This website is hosted on Cloudflare Pages, a platform known for its reliability and performance. Cloudflare Pages not only ensures the safety and security of our website but also enhances its efficiency through robust caching, global CDN (Content Delivery Network), and advanced security features. With Cloudflare Pages, I'm confident to be able to deliver content quickly and securely to users, ensuring a seamless browsing experience.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="other-changes">Other changes<a class="hash-link" aria-label="Direct link to Other changes" title="Direct link to Other changes" href="https://mkeithx.github.io/blog/devops-july#other-changes">​</a></h2>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="title-update"><a href="https://mkeithx.github.io/">Title Update</a><a class="hash-link" aria-label="Direct link to title-update" title="Direct link to title-update" href="https://mkeithx.github.io/blog/devops-july#title-update">​</a></h3>
+<p>As you may have noticed, we've updated the title or banner of our website to "<em>Guides for Seamless Software Delivery.</em>" This change reflects our commitment to providing valuable resources that streamline the software delivery process.</p>
+<p>The purpose of this update is to highlight a new feature on our website dedicated to helping you achieve seamless software deployment.</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="resources"><a href="https://mkeithx.github.io/community">Resources</a><a class="hash-link" aria-label="Direct link to resources" title="Direct link to resources" href="https://mkeithx.github.io/blog/devops-july#resources">​</a></h3>
+<p>Added curated list of some of the fantastic open-source projects that have played a significant role in the development and maintenance this website.</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="kitiplex-policies"><a href="https://mkeithx.github.io/community/kitiplex">Kitiplex Policies</a><a class="hash-link" aria-label="Direct link to kitiplex-policies" title="Direct link to kitiplex-policies" href="https://mkeithx.github.io/blog/devops-july#kitiplex-policies">​</a></h3>
+<p>In line with organizational restructuring, Kitiplex policies and other organization-related sites can be temporarily through this website. This includes:</p>
+<ul>
+<li><a href="https://mkeithx.github.io/community/kitiplex/cookie-policy">Cookie Policy</a></li>
+<li><a href="https://mkeithx.github.io/community/kitiplex/m365-guidelines">M365 Guidelines</a></li>
+<li><a href="https://mkeithx.github.io/community/kitiplex/m365-terms-of-use">M365 Terms of Use</a></li>
+<li><a href="https://mkeithx.github.io/community/kitiplex/team">Team</a></li>
+</ul>
+<p>Visit our <a href="https://github.com/kitiplex" target="_blank" rel="noopener noreferrer">GitHub</a> page.</p>]]></content>
+        <author>
+            <name>Keith Tan</name>
+            <email>email@kitimi.onmicrosoft.com</email>
+            <uri>https://facebook.com/mkeithx</uri>
+        </author>
+        <category label="Update" term="Update"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mid-year upgrades]]></title>
         <id>https://mkeithx.github.io/blog/mid-year-upgrades-2024</id>
@@ -52,7 +92,7 @@
         <author>
             <name>Keith Tan</name>
             <email>email@kitimi.onmicrosoft.com</email>
-            <uri>https://x.com/mkeithtan</uri>
+            <uri>https://facebook.com/mkeithx</uri>
         </author>
         <category label="Upgrade" term="Upgrade"/>
         <category label="Update" term="Update"/>
@@ -75,7 +115,7 @@
         <author>
             <name>Keith Tan</name>
             <email>email@kitimi.onmicrosoft.com</email>
-            <uri>https://x.com/mkeithtan</uri>
+            <uri>https://facebook.com/mkeithx</uri>
         </author>
         <category label="Updates" term="Updates"/>
         <category label="Documentation" term="Documentation"/>
@@ -99,7 +139,7 @@
         <author>
             <name>Keith Tan</name>
             <email>email@kitimi.onmicrosoft.com</email>
-            <uri>https://x.com/mkeithtan</uri>
+            <uri>https://facebook.com/mkeithx</uri>
         </author>
         <category label="Updates" term="Updates"/>
         <category label="Documentation" term="Documentation"/>
@@ -115,7 +155,7 @@
         <author>
             <name>Keith Tan</name>
             <email>email@kitimi.onmicrosoft.com</email>
-            <uri>https://x.com/mkeithtan</uri>
+            <uri>https://facebook.com/mkeithx</uri>
         </author>
         <category label="Updates" term="Updates"/>
         <category label="Documentation" term="Documentation"/>
@@ -181,9 +221,9 @@
         <author>
             <name>Keith Tan</name>
             <email>email@kitimi.onmicrosoft.com</email>
-            <uri>https://x.com/mkeithtan</uri>
+            <uri>https://facebook.com/mkeithx</uri>
         </author>
-        <category label="Post" term="Post"/>
+        <category label="Blog post" term="Blog post"/>
         <category label="Documentation" term="Documentation"/>
     </entry>
     <entry>
@@ -210,7 +250,7 @@
         <author>
             <name>Keith Tan</name>
             <email>email@kitimi.onmicrosoft.com</email>
-            <uri>https://x.com/mkeithtan</uri>
+            <uri>https://facebook.com/mkeithx</uri>
         </author>
         <category label="Api" term="Api"/>
         <category label="Configs" term="Configs"/>
@@ -230,7 +270,7 @@
         <author>
             <name>Keith Tan</name>
             <email>email@kitimi.onmicrosoft.com</email>
-            <uri>https://x.com/mkeithtan</uri>
+            <uri>https://facebook.com/mkeithx</uri>
         </author>
         <category label="Mkxspacehub" term="Mkxspacehub"/>
         <category label="Mkeithx" term="Mkeithx"/>
